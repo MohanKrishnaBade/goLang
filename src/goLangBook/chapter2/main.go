@@ -1,8 +1,7 @@
+
 package calculations
 
-import (
-	"fmt"
-)
+import "fmt"
 
 const (
 	name   string = "mohan"
