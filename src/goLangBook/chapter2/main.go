@@ -1,4 +1,3 @@
-
 package calculations
 
 import "fmt"
@@ -8,12 +7,10 @@ const (
 	age    int    = 27
 	weight int    = 177
 )
-
 var (
 	id      int    = 2
 	lapType string = "mac"
 )
-
 func cal() {
 
 	for i := 1; i <= 15; i++ {
